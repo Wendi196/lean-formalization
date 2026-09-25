@@ -1,4 +1,4 @@
-# VU Lean Formalization
+# Lean Formalization
 
 This is a small Lean 4 / Mathlib project.
 
@@ -14,7 +14,7 @@ One often records data of the form $(i, v_i)$, where $i$ is a coefficient index 
 
 ## What currently works
 
-The file `VULeanFormalization/ValuationPoints.lean` currently contains:
+The file `LeanFormalization/ValuationPoints.lean` currently contains:
 
 - a structure `ValuationPoint` with fields `index : Nat` and `value : Int`;
 - a function `indices` extracting coefficient indices from a list of valuation points;

@@ -1,6 +1,6 @@
 import Mathlib
 
-namespace VULeanFormalization
+namespace LeanFormalization
 
 /-- A point `(i, v)` representing the valuation `v` of the `i`-th coefficient. -/
 structure ValuationPoint where
@@ -25,4 +25,4 @@ lemma nonnegative_empty : NonnegativeValuations [] := by
   intro p hp
   cases hp
 
-end VULeanFormalization
+end LeanFormalization
