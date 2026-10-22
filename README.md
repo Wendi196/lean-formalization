@@ -4,7 +4,7 @@ This is a small Lean 4 / Mathlib project.
 
 ## Aim
 
-The aim is to create a compiling Lean project that records my first acquaintance with Lean 4 and Mathlib. The project is not intended to present a substantial formalization result. It is a beginner-level artifact.
+The aim is to create a compiling Lean project that records my first acquaintance with Lean 4 and Mathlib. It is a beginner-level work.
 
 ## Mathematical motivation
 
